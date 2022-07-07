@@ -1,5 +1,3 @@
 #### Codeup-C99    
-코드업 문제 풀이 연습 기록<br>
-컴파일 후 정답처리된 코드 업로드<br>
-
-작업 환경 Dev-C++
+work environment: Dev-c++    
+install https://sourceforge.net/projects/orwelldevcpp/ 
